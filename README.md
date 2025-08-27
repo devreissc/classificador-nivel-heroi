@@ -22,13 +22,13 @@ O arquivo [`main.js`](main.js) contém uma lista de heróis, cada um com um nome
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
 2. Execute o script no terminal: node main.js
 
-Exemplo de saída
+## Exemplo de saída
 
-O Herói de nome Kratos está no nível de Radiante
-O Herói de nome Gohan está no nível de Ascendente
-O Herói de nome Ares está no nível de Prata
-O Herói de nome Naruto está no nível de Ouro
-O Herói de nome Saitama está no nível de Imortal
+|O Herói de nome Kratos está no nível de Radiante   |
+|O Herói de nome Gohan está no nível de Ascendente  |
+|O Herói de nome Ares está no nível de Prata        |
+|O Herói de nome Naruto está no nível de Ouro       |
+|O Herói de nome Saitama está no nível de Imortal   |
 
-Arquivo principal
-main.js: Script principal para classificação dos heróis.
+### Arquivo principal
+[`main.js`](main.js): Script principal para classificação dos heróis.
